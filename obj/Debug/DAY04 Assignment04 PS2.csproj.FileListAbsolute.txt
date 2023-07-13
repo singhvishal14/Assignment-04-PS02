@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Angular Self paced\DAY04 Assignment04 PS2\DAY04 Assignment04 PS2\bin\Debug\DAY04 Assignment04 PS2.exe.config
+C:\Users\Administrator\Desktop\Angular Self paced\DAY04 Assignment04 PS2\DAY04 Assignment04 PS2\bin\Debug\DAY04 Assignment04 PS2.exe
+C:\Users\Administrator\Desktop\Angular Self paced\DAY04 Assignment04 PS2\DAY04 Assignment04 PS2\bin\Debug\DAY04 Assignment04 PS2.pdb
+C:\Users\Administrator\Desktop\Angular Self paced\DAY04 Assignment04 PS2\DAY04 Assignment04 PS2\obj\Debug\DAY04 Assignment04 PS2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Angular Self paced\DAY04 Assignment04 PS2\DAY04 Assignment04 PS2\obj\Debug\DAY04 Assignment04 PS2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Angular Self paced\DAY04 Assignment04 PS2\DAY04 Assignment04 PS2\obj\Debug\DAY04 Assignment04 PS2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Angular Self paced\DAY04 Assignment04 PS2\DAY04 Assignment04 PS2\obj\Debug\DAY04 Assignment04 PS2.exe
+C:\Users\Administrator\Desktop\Angular Self paced\DAY04 Assignment04 PS2\DAY04 Assignment04 PS2\obj\Debug\DAY04 Assignment04 PS2.pdb
